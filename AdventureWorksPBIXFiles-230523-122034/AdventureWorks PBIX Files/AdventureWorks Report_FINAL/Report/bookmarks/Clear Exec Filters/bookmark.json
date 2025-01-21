@@ -1,0 +1,28 @@
+{
+  "displayName": "Clear Exec Filters",
+  "name": "Bookmark9e58c6d580b941dd30bd",
+  "explorationState": {
+    "version": "1.3",
+    "activeSection": "ReportSection",
+    "objects": {
+      "merge": {
+        "outspacePane": [
+          {
+            "properties": {
+              "expanded": {
+                "expr": {
+                  "Literal": {
+                    "Value": "false"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "options": {
+    "targetVisualNames": []
+  }
+}
